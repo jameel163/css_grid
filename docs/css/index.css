@@ -33,12 +33,12 @@ body{
 .container-2{
   background-color: #ffffff;
   margin: 5px;
-  height: 33%;
 }
 
 .container-2-inside-1{
   display: flex;
   justify-content: space-between;
+ 
 }
 .container-2-inside-2{
   display: flex;
