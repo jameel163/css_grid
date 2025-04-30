@@ -1,0 +1,6 @@
+{
+    "emmet.includeLanguages": {
+        "css": "css"
+    },
+    "emmet.showAbbreviationSuggestions": true
+}
